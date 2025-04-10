@@ -1,14 +1,14 @@
 {
-  "name": "hexo-asset-pro",
+  "name": "hexo-asset-init",
   "version": "1.0.0",
-  "description": "Support original markdown image expressions when enable `post_asset_folder`, and no need to use private hexo tags anymore",
+  "description": "hexo-asset-pro fix version",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wnwd/hexo-asset-pro.git"
+    "url": "git+https://github.com/tyrsheng/hexo-asset-init.git"
   },
   "keywords": [
     "hexo",
@@ -20,7 +20,7 @@
   "author": "mapxn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wnwd/hexo-asset-pro/issues"
+    "url": "https://github.com/tyrsheng/hexo-asset-init.git/issues"
   },
-  "homepage": "https://github.com/wnwd/hexo-asset-pro#readme"
+  "homepage": "https://github.com/tyrsheng/hexo-asset-init.git#readme"
 }
